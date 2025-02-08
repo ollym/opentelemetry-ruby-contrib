@@ -1,5 +1,12 @@
 # Release History: opentelemetry-instrumentation-all
 
+## [0.72.1](https://github.com/open-telemetry/opentelemetry-ruby-contrib/compare/opentelemetry-instrumentation-all/v0.72.0...opentelemetry-instrumentation-all/v0.72.1) (2025-02-08)
+
+
+### Bug Fixes
+
+* add require active_storage instrumentation to `all` ([#1396](https://github.com/open-telemetry/opentelemetry-ruby-contrib/issues/1396)) ([711be26](https://github.com/open-telemetry/opentelemetry-ruby-contrib/commit/711be26cee57769fe15f5e56c5e8724d64403fd1))
+
 ### v0.73.1 / 2025-02-05
 
 * FIXED: Add require active_storage instrumentation to `all`

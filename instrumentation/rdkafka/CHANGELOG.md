@@ -1,5 +1,12 @@
 # Release History: opentelemetry-instrumentation-rdkafka
 
+## [0.5.1](https://github.com/open-telemetry/opentelemetry-ruby-contrib/compare/opentelemetry-instrumentation-rdkafka/v0.5.0...opentelemetry-instrumentation-rdkafka/v0.5.1) (2025-02-08)
+
+
+### Features
+
+* rdkafka support to v0.19 including ([#1403](https://github.com/open-telemetry/opentelemetry-ruby-contrib/issues/1403)) ([2b1ce12](https://github.com/open-telemetry/opentelemetry-ruby-contrib/commit/2b1ce12592d37d05e6cbef3e8f6162077da557a0))
+
 ### v0.5.0 / 2025-01-16
 
 * BREAKING CHANGE: Set minimum supported version to Ruby 3.1
